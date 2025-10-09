@@ -288,7 +288,8 @@ from unittest import mock
 @mock.patch.object(RecognizerResult, "logger")
 def test_logger(mock_logger):
     # replace the following line of `pass` with your test implementation
-    pass
+    create_recognizer_result("TestName", .8, 4, 7)
+    mock_logger.info.assert_called_with(f"created analyzer result: entity_type='TestName', start=4, end=7, score=0.80")
 
 def create_recognizer_result(entity_type: str, score: float, start: int, end: int):
     data = {"entity_type": entity_type, "score": score, "start": start, "end": end}
