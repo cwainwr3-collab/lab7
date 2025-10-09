@@ -1,7 +1,22 @@
 Branches in this repo (with details):
 
-- main
-  SHA: 987bfa38b5aeae319fb88ec30b4d9af2d4cbfc56
-  Commits: 1
+- dependabot/docker/presidio-anonymizer/python-3.14-windowsservercore
+  SHA: 64328305d23af649ba06ecdad9973885a63a3bb5
+  Commits: 3
   Recent commits:
+    6432830 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-09T00:22:57Z | Bump python in /presidio-anonymizer
+    1ea758a | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T00:22:20Z | Auto-update branch-info.txt
+    987bfa3 | Author: Christopher Wainwright <231749634+cwainwr3-collab@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-08T20:22:07-04:00 | Initial commit
+- dependabot/github_actions/actions/checkout-5
+  SHA: 1d1458dd9814aac9ddb2b0e59e540c89e19d61de
+  Commits: 3
+  Recent commits:
+    1d1458d | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-09T00:22:47Z | Bump actions/checkout from 3 to 5
+    1ea758a | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T00:22:20Z | Auto-update branch-info.txt
+    987bfa3 | Author: Christopher Wainwright <231749634+cwainwr3-collab@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-08T20:22:07-04:00 | Initial commit
+- main
+  SHA: 1ea758a29c88e55c275ce19347a741650181d225
+  Commits: 2
+  Recent commits:
+    1ea758a | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T00:22:20Z | Auto-update branch-info.txt
     987bfa3 | Author: Christopher Wainwright <231749634+cwainwr3-collab@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-08T20:22:07-04:00 | Initial commit
