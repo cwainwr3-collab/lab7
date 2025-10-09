@@ -15,20 +15,20 @@ Branches in this repo (with details):
     1ea758a | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T00:22:20Z | Auto-update branch-info.txt
     987bfa3 | Author: Christopher Wainwright <231749634+cwainwr3-collab@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-08T20:22:07-04:00 | Initial commit
 - lab7
-  SHA: 10faa385d8264b81f11afddf1ae56e8474e50d00
-  Commits: 5
+  SHA: f2df6aff3139058c362ed092db823a6fdf17da5a
+  Commits: 6
   Recent commits:
+    f2df6af | Author: Christopher Wainwright <231749634+cwainwr3-collab@users.noreply.github.com> | Committer: Christopher Wainwright <231749634+cwainwr3-collab@users.noreply.github.com> | Date: 2025-10-09T02:40:02Z | fixing error: fewer than six key cases
     10faa38 | Author: Christopher Wainwright <231749634+cwainwr3-collab@users.noreply.github.com> | Committer: Christopher Wainwright <231749634+cwainwr3-collab@users.noreply.github.com> | Date: 2025-10-09T02:23:14Z | adding various tests for lab7
     3159a8c | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T00:23:06Z | Auto-update branch-info.txt
     58f594c | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T00:23:00Z | Auto-update branch-info.txt
     1ea758a | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T00:22:20Z | Auto-update branch-info.txt
-    987bfa3 | Author: Christopher Wainwright <231749634+cwainwr3-collab@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-08T20:22:07-04:00 | Initial commit
 - main
-  SHA: 2d93feb7ddfb41565c9ef0bf0b597e96a335f46b
-  Commits: 6
+  SHA: 8099a555cae7eab3690958a7dcba6287bf680c32
+  Commits: 7
   Recent commits:
+    8099a55 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T02:31:22Z | Auto-update branch-info.txt
     2d93feb | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T02:24:17Z | Auto-update branch-info.txt
     10faa38 | Author: Christopher Wainwright <231749634+cwainwr3-collab@users.noreply.github.com> | Committer: Christopher Wainwright <231749634+cwainwr3-collab@users.noreply.github.com> | Date: 2025-10-09T02:23:14Z | adding various tests for lab7
     3159a8c | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T00:23:06Z | Auto-update branch-info.txt
     58f594c | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T00:23:00Z | Auto-update branch-info.txt
-    1ea758a | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T00:22:20Z | Auto-update branch-info.txt
