@@ -64,6 +64,7 @@ def test_operator_type():
 
 @pytest.mark.parametrize("key", ["abcdefghijklmnop", "abcdefghijklmnopqrstuvwx", 
                                  "abcdefghijklmnopqrstuvwxyzABCDEF", b"abcdefghijklmnop",
-                                  b"abcdefghijklmnopqrstuvwx", b"abcdefghijklmnopqrstuvwxyzABCDEF" ])
+                                  b"abcdefghijklmnopqrstuvwx", b"abcdefghijklmnopqrstuvwxyzABCDEF",
+                                    "abcdefghijklmnoz"  ])
 def test_valid_keys(key ):
    Encrypt().validate(params={"key": key })
