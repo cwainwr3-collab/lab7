@@ -7,13 +7,15 @@ Branches in this repo (with details):
     6432830 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-09T00:22:57Z | Bump python in /presidio-anonymizer
     1ea758a | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T00:22:20Z | Auto-update branch-info.txt
     987bfa3 | Author: Christopher Wainwright <231749634+cwainwr3-collab@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-08T20:22:07-04:00 | Initial commit
-- dependabot/github_actions/actions/checkout-5
-  SHA: 1d1458dd9814aac9ddb2b0e59e540c89e19d61de
-  Commits: 3
+- dependabot/github_actions/actions/checkout-6
+  SHA: e0cc8f3f1cee0c9d71289ee1ecf643ed51866046
+  Commits: 9
   Recent commits:
-    1d1458d | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-09T00:22:47Z | Bump actions/checkout from 3 to 5
-    1ea758a | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T00:22:20Z | Auto-update branch-info.txt
-    987bfa3 | Author: Christopher Wainwright <231749634+cwainwr3-collab@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-08T20:22:07-04:00 | Initial commit
+    e0cc8f3 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-11-24T04:46:37Z | Bump actions/checkout from 3 to 6
+    b91b571 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T02:40:20Z | Auto-update branch-info.txt
+    8099a55 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T02:31:22Z | Auto-update branch-info.txt
+    2d93feb | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T02:24:17Z | Auto-update branch-info.txt
+    10faa38 | Author: Christopher Wainwright <231749634+cwainwr3-collab@users.noreply.github.com> | Committer: Christopher Wainwright <231749634+cwainwr3-collab@users.noreply.github.com> | Date: 2025-10-09T02:23:14Z | adding various tests for lab7
 - lab7
   SHA: f2df6aff3139058c362ed092db823a6fdf17da5a
   Commits: 6
@@ -24,11 +26,11 @@ Branches in this repo (with details):
     58f594c | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T00:23:00Z | Auto-update branch-info.txt
     1ea758a | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T00:22:20Z | Auto-update branch-info.txt
 - main
-  SHA: 8099a555cae7eab3690958a7dcba6287bf680c32
-  Commits: 7
+  SHA: b91b571f84d7d9d39bea23ff52cba16ae331aafb
+  Commits: 8
   Recent commits:
+    b91b571 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T02:40:20Z | Auto-update branch-info.txt
     8099a55 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T02:31:22Z | Auto-update branch-info.txt
     2d93feb | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T02:24:17Z | Auto-update branch-info.txt
     10faa38 | Author: Christopher Wainwright <231749634+cwainwr3-collab@users.noreply.github.com> | Committer: Christopher Wainwright <231749634+cwainwr3-collab@users.noreply.github.com> | Date: 2025-10-09T02:23:14Z | adding various tests for lab7
     3159a8c | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T00:23:06Z | Auto-update branch-info.txt
-    58f594c | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-09T00:23:00Z | Auto-update branch-info.txt
